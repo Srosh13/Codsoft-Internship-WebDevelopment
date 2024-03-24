@@ -1,0 +1,72 @@
+body {
+  background-image: url(Images/black.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin-left: 70px;
+  margin-top: 2px;
+  margin-right: 70px;
+}
+article {
+  color: gold;
+  line-height: 30px;
+  font-style: inherit;
+  font-size: xx-large;
+}
+.quote {
+  margin-top: 90px;
+}
+.align {
+  text-indent: 70px;
+}
+h4 {
+  color: aliceblue;
+  margin-left: 60px;
+}
+
+.myhead {
+  margin-top: 30px;
+  display: flex;
+  gap: 3rem;
+  align-items: center;
+  background-color: white;
+  font-style: Arial;
+}
+.nav {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  font-style: italic;
+}
+a:hover {
+  color: red;
+}
+.div1 {
+  float: right;
+  margin-top: 50px;
+  margin-bottom: 150px;
+  margin-left: 10px;
+}
+.image {
+  border-color: aquamarine;
+}
+
+.Container {
+  margin-top: 180px;
+  background-color: bisque;
+  text-align: center;
+  position: absolute;
+  margin-right: 70px;
+}
+p {
+  padding-left: 300px;
+  padding-right: 300px;
+  font-size: medium;
+}
+h3 {
+  text-align: center;
+  font-size: large;
+}
+.links {
+  font-size: 36px;
+}
